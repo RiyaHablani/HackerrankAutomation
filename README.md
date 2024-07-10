@@ -45,11 +45,9 @@ This repository contains a Puppeteer script designed to automate solving HackerR
 ### Watch as it automates solving challenges on HackerRank.
 
 **Video Demonstration**
-(
 
 https://github.com/RiyaHablani/HackerrankAutomation/assets/121542860/252f7e1e-aa3b-4911-a8f4-6c1836f3db3b
 
-)
 
 ## Note
 Ensure Puppeteer and Node.js are installed on your system to run this script effectively.
