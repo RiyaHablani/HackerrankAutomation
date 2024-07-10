@@ -51,5 +51,5 @@ https://github.com/RiyaHablani/HackerrankAutomation/assets/121542860/252f7e1e-aa
 
 )
 
-##Note
+## Note
 Ensure Puppeteer and Node.js are installed on your system to run this script effectively.
