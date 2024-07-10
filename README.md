@@ -33,8 +33,8 @@ This repository contains a Puppeteer script designed to automate solving HackerR
      cd HackerrankAutomation
 3. **Install dependencies:**
 
-    -npm init
-    -npm install puppetter
+   1. Run `npm init` to initialize your project.
+   2. Install Puppeteer using npm:
 4. **Update codeObj:**
    
     Edit code.js to include your answers or solutions.
