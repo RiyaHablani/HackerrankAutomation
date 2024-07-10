@@ -34,7 +34,7 @@ This repository contains a Puppeteer script designed to automate solving HackerR
 3. **Install dependencies:**
 
    1. Run `npm init` to initialize your project.
-   2. Install Puppeteer using npm:
+   2. Install Puppeteer using npm:npm install puppeteer
 4. **Update codeObj:**
    
     Edit code.js to include your answers or solutions.
